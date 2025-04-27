@@ -82,7 +82,7 @@ RPG+++>$ BK++++ KX+++ KM+++ INTJ-A R-- he/him+++
 Special characters
 ------
 
-A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
+A few special characters allow for the notion that geeks can be strictly quantified (ultimately wrong but practically useful).
 
 |			|			|				|
 |:---		|	:---:	|	:---		|
