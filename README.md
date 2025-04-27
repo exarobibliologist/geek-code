@@ -69,13 +69,14 @@ GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- Lbas
 When it comes to sharing code, using a long line can be unwieldy and difficult to read for the user. To improve the readability, it's advisable to incorporate line breaks in between certain categories. This approach can help create a rough box shape that makes the code more accessible and easier to follow.
 
 ```
------	BEGIN GEEK CODE VERSION 6.0	-----
-GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
-MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
-IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
-TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
-TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
------	END GEEK CODE VERSION 6.0	-----
+----- BEGIN GEEK CODE VERSION 7.0 -----
+GAI/GCS^/GIN/GM^/GVDI/GWRI A++(A?) B-:++:+:+:- 
+C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC--
+LBASH+++ LC#+ LPY+ LVB IO+++:--- PGP+ 
+G:exarobibliologist E++ H+ PS+ PE TDW+ TEX+++
+THRO++++ TOB+++ TSTsnw+++ TSTld+++ TSTdsc++ 
+RPG+++>$ BK++++ KX+++ KM+++ INTJ-A R-- he/him+++
+----- END GEEK CODE VERSION 7.0 -----
 ```
 
 Special characters
@@ -131,6 +132,7 @@ In order for a person to commence coding, they must first identify themselves as
 |	`GGD`		|	=		|	Geek of Graphic Design				|
 |	`GH`		|	=		|	Geek of Humanities					|
 |	`GHT`		|	=		|	Geek of Health Tech					|
+|	`GIN`		|	=		|	Geek of Influencing					|
 |	`GIT`		|	=		|	Geek of Information Technology		|
 |	`GJ`		|	=		|	Geek of Jurisprudence (Law)			|
 |	`GLS`		|	=		|	Geek of Library Science				|
