@@ -70,7 +70,7 @@ When it comes to sharing code, using a long line can be unwieldy and difficult t
 
 ```
 ----- BEGIN GEEK CODE VERSION 7.0 -----
-GAI/GCS^/GIN/GM^/GVDI/GWRI A++(A?) B-:++:+:+:- 
+GAI/GCS^/GIN/GM^/GRPG/GWRI A++(A?) B-:++:+:+:- 
 C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC--
 LBASH+++ LC#+ LPY+ LVB IO+++:--- PGP+ 
 G:exarobibliologist E++ H+ PS+ PE TDW+ TEX+++
