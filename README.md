@@ -150,6 +150,8 @@ In order for a person to commence coding, they must first identify themselves as
 |	`GP` 		|	=		|	Geek of Philosophy					|
 |	`GQA`		|	=		|	Geek of Quality Assurance			|
 |	`GROB`		|	=		|	Geek of Robotics					|
+|	`GRP`		|	=		|	Geek of Roleplaying (see `sex**`)	|
+|	`GRPG`		|	=		|	Geek of Role Playing Games			|
 |	`GS`		|	=		|	Geek of Science						|
 |	`GSCR`		|	=		|	Geek of Screenwriting				|
 |	`GSS` 		|	=		|	Geek of Social Science				|
