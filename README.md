@@ -332,7 +332,9 @@ C = Clothing
 D = Dimensions
 ------
 
-People who are considered geeks come in a wide variety of forms. The initial portion indicates the vertical extent, while the latter represents the horizontal extent. The two parts are delimited by a colon.
+People who are considered geeks come in a wide variety of forms. The code is divided into two distinct parts, each separated by a colon.
+
+These parts are ( `VERTICAL : HORIZONTAL` )
 
 | Code	| | Vertical Extent	 | Horizontal Extent |
 |:--- | :---: | :--- | :--- |
