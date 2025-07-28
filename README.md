@@ -56,3 +56,7 @@ The obvious benefits to this method are:
 Time context - Including the year tells users when the release was made — helpful in long-lived projects (which geekcode definitely qualifies as long-lived) or when regular updates are important. And people can tell how frequently you're releasing updates just by glancing at the version history.
 
 Chronological sorting - Versions sort nicely in order when the year is the leading number.
+
+Go Generate Your Geekcode!
+======
+Check out the [current geekcode model](https://github.com/exarobibliologist/geek-code/blob/main/Current%20Geekcode) and design your geekcode.
