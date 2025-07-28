@@ -357,16 +357,16 @@ In this day and age, it is expected that geeks have some level of familiarity wi
 
 For many geeks, their identity is closely tied to their proficiency in using computers and computer networks. To evaluate your level of geekiness when it comes to computers, consult the following guide. This first category will serve as a general indicator of your computer aptitude, while the subsequent categories delve into more specific areas.
 
-|				|			|				|
-|:---			|	:---:	|	:---		|
-|	`CM++++` 	|	=		|	I want to be the first in line to have the cutting-edge cybernetic interface implanted into my body.	|
-|	`CM+++`		|	=		|	"Are you telling me that there's more to life than just being online? It's been weeks since I last logged out. I've been spending my time on StackOverflow, providing answers to various questions."	|
-|	`CM++` 		|	=		|	As someone who has embraced the digital age, computers are an integral component of my everyday life. I am adept at coding in at least one programming language and frequently refer to StackOverflow to resolve any technical queries that I encounter.	|
-|	`CM+`		|	=		|	I find computers to be entertaining and fun to use. Furthermore, I possess enough knowledge that when prompted with the instruction 'press any key to continue', I need not scour the keyboard in search of a specific key labeled 'ANY'.	|
-|	`CM`		|	=		|	Computers are a mere instrument, devoid of any intrinsic value. I resort to its employment solely when it is conducive to accomplishing my goals.	|
-|	`CM-`		|	=		|	If I encounter anything that goes beyond the capabilities of my calculator, I am in serious trouble.	|
-|	`CM--`		|	=		|	Where's the on switch?	|
-|	`CM---`		|	=		|	"Computers? No thank you. Aren't those the devices possessed by demons?"	|
+| Code        | Meaning |
+|-------------|---------|
+| `CM++++`    | I want to be the first in line to have the cutting-edge cybernetic interface implanted into my body. I dream in binary and my nervous system is Wi-Fi enabled. |
+| `CM+++`     | "Are you telling me there's more to life than being online? I haven't logged out in weeks. I spend my time refining prompt engineering skills on ChatGPT." |
+| `CM++`      | Computers are an essential part of my daily life. I'm fluent in at least one programming language and regularly consult AI tools like ChatGPT or GitHub Copilot to debug, learn, and build. |
+| `CM+`       | I find computers to be fun and useful. I know enough to handle basic tech tasks confidently, and I don't need to ask where the 'ANY' key is. |
+| `CM`        | Computers are just tools. I use them when necessary, but I don’t get excited about new hardware or the latest apps. |
+| `CM-`       | If it's more complicated than a calculator, I'm in trouble. I can use a computer, but it’s not my friend. |
+| `CM--`      | Where's the power button again? I need help turning this thing on. |
+| `CM---`     | "Computers? No thank you. Aren’t those the noisy boxes that summon evil spirits?" |
 
 MW = Microsoft Windows
 ------
