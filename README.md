@@ -59,4 +59,6 @@ Chronological sorting - Versions sort nicely in order when the year is the leadi
 
 Go Generate Your Geekcode!
 ======
-Check out the [current geekcode model](https://github.com/exarobibliologist/geek-code/blob/main/Current%20Geekcode) and design your geekcode.
+Download the [current geekcode file](https://github.com/exarobibliologist/geek-code/blob/main/Current%20Geekcode) and design your geekcode.
+
+As a note: It's much easier to view in a text editor WITHOUT word wrap. Word wrap makes a mess of the charts!
