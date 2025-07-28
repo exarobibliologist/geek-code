@@ -1,6 +1,6 @@
 # geek_code
 
-# Geek Code 7.0.1
+# Geek Code 2025
 
 # What Is Geek Code?
 The Geek Code was developed in 1993 as a system of letters and symbols used by self-proclaimed "geeks" to provide information about their personality, appearance, interests, skills, and opinions to other geeks.
@@ -43,18 +43,28 @@ Version 5.x eliminated case-sensitive categories and modified some letters and c
 
 Version 6.x was a complete revision, improved with better comprehension, flow, revised vocabulary.
 
-Welcome to The Geek Code Version 7.0
+[Click here to see Version 7.x](https://github.com/exarobibliologist/geek-code/blob/2484c723fe4b5572114e15c38cbc1944c06bfa23/Geek%20v7%20Code) Version 7.x greatly expanded on version 6 by adding new, modern fields that geeks spend time in.
+
+Welcome to Geek Code 2025.1.0.0
 ======
 
-This updated edition greatly expands on version 6 by adding new, modern fields that geeks spend time in.
+Rather than continuing the numbering scheme started back in 1993, which can become confusing figuring out which version you need to use and where to find it, I have decided to instead number Geekcode versions using a hybrid of semantic numbering and calendar numbering.
+In addition, older versions of Geekcode will be archived in GitHub repository for posterity, and easy access. These versions will be linked in the historical archive above.
 
-Additionally, this code will begin using semantic version numbering to indicate changes.
+The numbering scheme I am going to follow will be `YEAR.MAJOR.MINOR.PATCH`
 
+It's obvious what `YEAR` means. `MAJOR` and `MINOR` will track major or minor version changes throughout the year, resetting on the next `YEAR`'s major release.
+
+The obvious benefits to this method are:
+
+Time context - Including the year tells users when the release was made — helpful in long-lived projects (which geekcode definitely qualifies as long-lived) or when regular updates are important. And people can tell how frequently you're releasing updates just by glancing at the version history.
+
+Chronological sorting - Versions sort nicely in order when the year is the leading number.
 
 How Does It Work?
 ------
 
-The code is made up of alphanumeric identifiers that represent different categories and subcategories. Following these identifiers are qualifiers, represented by the symbols + and -, that indicate factors such as amount, size, or level of proficiency. These qualifiers can be stacked to provide more specific information, such as `H+++`, which indicates an individual with an extremely high level of skill in Hardware.
+Geekcode is made up of alphanumeric identifiers that represent different categories and subcategories. Following these identifiers are qualifiers, represented by the symbols + and -, that indicate factors such as amount, size, or level of proficiency. These qualifiers can be stacked to provide more specific information, such as `H+++`, which indicates an individual with an extremely high level of skill in Hardware.
 
 The broad categories that can be encoded are: Geek of, Wetware, Computers, Politics, Entertainment, and Lifestyle. Each category has its own subcategories, and you can provide as much or as little detail as you like. For example, `U++` indicates a person with a high level of interest or proficiency in Unix, while `ULDU++` indicates someone with a particular interest in Unix/Linux/Debian/Ubuntu. Additional subcategories can be indicated with a forward slash, such as `GCS/GM`, which indicates a Geek of Computer Science and Math.
 
@@ -63,20 +73,19 @@ Some categories may not be relevant to you, so you can ignore them. Also, some o
 Once you have provided a set of category/qualifier strings for any of the above, it's time to assemble your code for display. Simply concatenate the substrings with a space between them. Your final code might look something like this:
 
 ```
-GAI/GCS^/GIN/GM^/GVDI/GWRI A++(A?) B-:++:+:+:- C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- LBASH+++ LC#+ LPY+ LVB IO+++:--- PGP+ G:exarobibliologist E++ H+ PS+ PE TDW+ TEX+++ THRO++++ TOB+++ TSTsnw+++ TSTld+++ TSTdsc++ RPG+++>$ BK++++ KX+++ KM+++ INTJ-A R-- he/him+++
+GAI/GCS^/GIN/GM^/GRPG/GWRI A++(A?) B-:++:+:+:- C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- LBASH+++ LC#+ LPY+ LVB IO+++:--- PGP+ G:exarobibliologist E++ H+ PS+ PE TDW+ TEX+++ THRO++++ TOB+++ TST++++@ RPG+++$ BK++++ KX+++ KM+++ INTJ-A R-- he/him+++
 ```
 
 When it comes to sharing code, using a long line can be unwieldy and difficult to read for the user. To improve the readability, it's advisable to incorporate line breaks in between certain categories. This approach can help create a rough box shape that makes the code more accessible and easier to follow.
 
 ```
------ BEGIN GEEK CODE VERSION 7.0 -----
-GAI/GCS^/GIN/GM^/GRPG/GWRI A++(A?) B-:++:+:+:- 
+-------- GEEK CODE VERSION 2025.1.0.0 --------
+GAI/GCS^/GIN/GM^/GRPG/GWRI A++(A?) B-:++:+:+:-
 C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC--
-LBASH+++ LC#+ LPY+ LVB IO+++:--- PGP+ 
+LBASH+++ LC#+ LPY+ LVB IO+++:--- PGP+
 G:exarobibliologist E++ H+ PS+ PE TDW+ TEX+++
-THRO++++ TOB+++ TSTsnw+++ TSTld+++ TSTdsc++ 
-RPG+++>$ BK++++ KX+++ KM+++ INTJ-A R-- he/him+++
------ END GEEK CODE VERSION 7.0 -----
+THRO++++ TOB+++ TST++++@ RPG+++$ BK++++
+KX+++ KM+++ INTJ-A R-- he/him+++
 ```
 
 Special characters
@@ -89,7 +98,7 @@ A few special characters allow for the notion that geeks can be strictly quantif
 |	`+`		|	=		|	Indicates a higher level of geekiness in a specific area. Each additional + raises the level further.	|
 |	`_`		|	=		|	(Optional) Indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -. For example, instead of leaving it blank/empty, a geek of average shape and size could write `d_:_` to indicate they are at the baseline.	|
 |	`-`		|	=		|	Indicates a lower level of geekiness in a specific area. Each additional - reduces the level further.	|
-|	`@`		|	=		|	Indicates a trait that is not very rigid and may change with time or with individual interaction. For example, Geeks who happen to enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as `TSTpic+++@`.	|
+|	`@`		|	=		|	Indicates a trait that is not very rigid and may change with time or with individual interaction. For example, Geeks who happen to enjoy Star Trek as a whole, but aren't sure about the current Star Trek series might list themselves as `TST+++@`.	|
 |	`()`	|	=		|	Indicates "cross-overs" or ranges. Geeks who go from C+ to C- depending on the situation (i.e. mostly "C+") could use `C+(-)`. Note: @ is different from () in that () has finite limits within the category, while @ ranges all over.	|
 |	`$`		|	=		|	Indicates that this particular category is something a geek earns money by doing. For example, `UL+++$` indicates that the person utilizes Unix and gets paid for it.	|
 |	`^`		|	=		|	Indicates that the geek has a degree or certificate in this area or field. For example, `GCS^/GMU/GTW^` indicates that this is a Geek of Computer Science (possessing a degree), a Geek of Music, and a Geek of Technical Writing (with a certificate here)	|
@@ -105,68 +114,156 @@ G = GEEK OF - training/degree/interest/job
 
 In order for a person to commence coding, they must first identify themselves as a geek. This is achieved by beginning the code with a "G" which stands for "GEEK", followed by one or two letters that indicate the geek's profession or area of expertise. Geeks who possess multiple skill sets in various vocations should utilize a slash to distinguish each of their talents (e.g., GCS/MU/TW) and showcase their multifaceted abilities.
 
-|				|			|				|
-|:---			|	:---:	|	:---		|
-|	`GAI`		|	=		|	Geek of Artificial Intelligence 	|
-|	`GAUG`		|	=		|	Geek of Augmented Reality (AR)		|
-|	`GBIO`		|	=		|	Geek of Biomedical Engineering		|
-|	`GB`		|	=		|	Geek of Business					|
-|	`GC`		|	=		|	Geek of Classics					|
-|	`GCA`		|	=		|	Geek of Commercial Arts				|
-|	`GCM`		|	=		|	Geek of Computer Management			|
-|	`GCS`		|	=		|	Geek of Computer Science			|
-|	`GCC`		|	=		|	Geek of Communications				|
-|	`GCLI`		|	=		|	Geek of Climate Science				|
-|	`GCRY`		|	=		|	Geek of Cryptography				|
-|	`GCYB`		|	=		|	Geek of Cybersecurity				|
-|	`GDS`		|	=		|	Geek of Data Science				|
-|	`GDL`		|	=		|	Geek of Deep Learning				|
-|	`GDVO`		|	=		|	Geek of DevOps						|
-|	`GE`		|	=		|	Geek of Engineering					|
-|	`GED`		|	=		|	Geek of Education					|
-|	`GENV`		|	=		|	Geek of Environmental Science		|
-|	`GFA`		|	=		|	Geek of Fine Arts					|
-|	`GFS`		|	=		|	Geek of Forensic Science			|
-|	`GFO`		|	=		|	Geek of Food Science				|
-|	`GG`		|	=		|	Geek of Government					|
-|	`GGD`		|	=		|	Geek of Graphic Design				|
-|	`GH`		|	=		|	Geek of Humanities					|
-|	`GHT`		|	=		|	Geek of Health Tech					|
-|	`GIN`		|	=		|	Geek of Influencing					|
-|	`GIT`		|	=		|	Geek of Information Technology		|
-|	`GJ`		|	=		|	Geek of Jurisprudence (Law)			|
-|	`GLS`		|	=		|	Geek of Library Science				|
-|	`GL` 		|	=		|	Geek of Literature					|
-|	`GLO`		|	=		|	Geek of Logistics					|
-|	`GMC` 		|	=		|	Geek of Mass Communications			|
-|	`GM`		|	=		|	Geek of Math						|
-|	`GMD` 		|	=		|	Geek of Medicine					|
-|	`GMU`		|	=		|	Geek of Music						|
-|	`GNFT`		|	=		|	Geek of Blockchains & NFT			|
-|	`GNR`		|	=		|	Geek of Neuroscience				|
-|	`GOA`		|	=		|	Geek of Outdoor Activities			|
-|	`GPA` 		|	=		|	Geek of Performing Arts				|
-|	`GPV`		|	=		|	Geek of Podcasts & Vlogging			|
-|	`GP` 		|	=		|	Geek of Philosophy					|
-|	`GQA`		|	=		|	Geek of Quality Assurance			|
-|	`GROB`		|	=		|	Geek of Robotics					|
-|	`GRP`		|	=		|	Geek of Roleplaying (see `sex**`)	|
-|	`GRPG`		|	=		|	Geek of Role Playing Games			|
-|	`GS`		|	=		|	Geek of Science						|
-|	`GSCR`		|	=		|	Geek of Screenwriting				|
-|	`GSS` 		|	=		|	Geek of Social Science				|
-|	`GST`		|	=		|	Geek of Space Technology			|
-|	`GSUS`		|	=		|	Geek of Sustainability				|
-|	`GTM`		|	=		|	Geek of Traditional Media			|
-|	`GTW`		|	=		|	Geek of Technical Writing			|
-|	`GUX`		|	=		|	Geek of User Experience (UX) Design	|
-|	`GFX`		|	=		|	Geek of Visual Effects				|
-|	`GVGD`		|	=		|	Geek of Video Game Design			|
-|	`GWRI`		|	=		|	Geek of Writing & Storytelling		|
-|	`GO` 		|	=		|	Geek of Other. Some types of geeks deviate from normal geek activities.	This is encouraged as true geeks come from all walks of life.	|
-|	`GU`		|	=		|	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.	|
-|	`G!`		|	=		|	Geek of no qualifications nor interests; likely, cannot exist	|
-|	`GAT`		|	=		|	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.	|
+Because the master list was getting so long, I took the time to break it into categories so you can easily find your code.
+
+### 🧠 Cognitive, Behavioral & Human Studies
+| Code     | = | Description |
+|----------|---|-------------|
+| `GALL`   | = | Geek of Alternative Lifestyles |
+| `GALT`   | = | Geek of Alternate History / Timelines |
+| `GCOG`   | = | Geek of Cognitive Science |
+| `GBEH`   | = | Geek of Behavioral Economics |
+| `GFAN`   | = | Geek of Fandom Studies |
+| `GGENR`  | = | Geek of Gender Studies |
+| `GMEM`   | = | Geek of Meme Culture |
+| `GPSY`   | = | Geek of Psychology |
+| `GUXR`   | = | Geek of UX Research / Psychology |
+
+### 🧪 Science, Medicine & Environment
+| Code     | = | Description |
+|----------|---|-------------|
+| `GBIO`   | = | Geek of Biomedical Engineering |
+| `GCLI`   | = | Geek of Climate Science |
+| `GDS`    | = | Geek of Data Science |
+| `GENV`   | = | Geek of Environmental Science |
+| `GFO`    | = | Geek of Food Science |
+| `GFS`    | = | Geek of Forensic Science |
+| `GMD`    | = | Geek of Medicine |
+| `GNR`    | = | Geek of Neuroscience |
+| `GS`     | = | Geek of Science |
+| `GSUS`   | = | Geek of Sustainability |
+
+### 🧮 Technology & Computing
+| Code     | = | Description |
+|----------|---|-------------|
+| `GAI`    | = | Geek of Artificial Intelligence |
+| `GAPI`   | = | Geek of API Development |
+| `GBC`    | = | Geek of Blockchain Technology |
+| `GCI`    | = | Geek of Cloud Infrastructure |
+| `GCYB`   | = | Geek of Cybersecurity |
+| `GDL`    | = | Geek of Deep Learning |
+| `GDVO`   | = | Geek of DevOps |
+| `GEDG`   | = | Geek of Edge Computing |
+| `GGEN`   | = | Geek of Generative AI |
+| `GIT`    | = | Geek of Information Technology |
+| `GIOT`   | = | Geek of Internet of Things |
+| `GML`    | = | Geek of Machine Learning |
+| `GOS`    | = | Geek of Operating Systems |
+| `GQTM`   | = | Geek of Quantum Computing |
+| `GRAS`   | = | Geek of Raspberry Pi Projects |
+| `GSEC`   | = | Geek of Ethical Hacking / Security |
+| `GST`    | = | Geek of Space Technology |
+| `GUX`    | = | Geek of User Experience (UX) Design |
+| `GUXM`   | = | Geek of UX Metrics & Optimization |
+| `GVR`    | = | Geek of Virtual Reality |
+
+### 🧑‍🎓 Academia, Research & Education
+| Code     | = | Description |
+|----------|---|-------------|
+| `GCIT`   | = | Geek of Citation Science & Indexing |
+| `GCS`    | = | Geek of Computer Science |
+| `GED`    | = | Geek of Education |
+| `GLS`    | = | Geek of Library Science |
+| `GM`     | = | Geek of Math |
+| `GP`     | = | Geek of Philosophy |
+| `GSCI`   | = | Geek of Scientific Methodology / Meta-Research |
+| `GSS`    | = | Geek of Social Science |
+
+### 🔐 Security & Privacy
+| Code     | = | Description |
+|----------|---|-------------|
+| `GCRY`   | = | Geek of Cryptography |
+| `GCYB`   | = | Geek of Cybersecurity |
+| `GSEC`   | = | Geek of Ethical Hacking / Security |
+
+### 🛠️ Engineering, Hardware & DIY
+| Code     | = | Description |
+|----------|---|-------------|
+| `GAR`    | = | Geek of Arduino & Embedded Systems |
+| `GDIY`   | = | Geek of DIY Engineering |
+| `GEDG`   | = | Geek of Edge Computing |
+| `GE`     | = | Geek of Engineering |
+| `GMKR`   | = | Geek of Maker Culture |
+| `GROB`   | = | Geek of Robotics |
+| `G3D`    | = | Geek of 3D Modeling & Printing |
+
+### 🎨 Art, Design & Media
+| Code     | = | Description |
+|----------|---|-------------|
+| `GANM`   | = | Geek of Animation |
+| `GCA`    | = | Geek of Commercial Arts |
+| `GDAW`   | = | Geek of Digital Audio Workstations |
+| `GDIR`   | = | Geek of Digital Illustration |
+| `GFA`    | = | Geek of Fine Arts |
+| `GGD`    | = | Geek of Graphic Design |
+| `GL`     | = | Geek of Literature |
+| `GMU`    | = | Geek of Music |
+| `GPA`    | = | Geek of Performing Arts |
+| `GSCR`   | = | Geek of Screenwriting |
+| `GTIK`   | = | Geek of TikTok / Shortform Content |
+| `GTW`    | = | Geek of Technical Writing |
+| `GTM`    | = | Geek of Traditional Media |
+| `GVGD`   | = | Geek of Video Game Design |
+| `GWRI`   | = | Geek of Writing & Storytelling |
+
+### 🎮 Games, Storytelling & Entertainment
+| Code     | = | Description |
+|----------|---|-------------|
+| `GRPG`   | = | Geek of Role Playing Games |
+| `GRP`    | = | Geek of Roleplaying (see `sex**`) |
+| `GSIM`   | = | Geek of Simulation Theory |
+| `GPV`    | = | Geek of Podcasts & Vlogging |
+| `GSTM`   | = | Geek of Streaming & Livestreaming |
+
+### 📊 Business, Government & Professional Studies
+| Code     | = | Description |
+|----------|---|-------------|
+| `GB`     | = | Geek of Business |
+| `GCLI`   | = | Geek of Climate Science |
+| `GGL`    | = | Geek of Game Localization |
+| `GG`     | = | Geek of Government |
+| `GJ`     | = | Geek of Jurisprudence (Law) |
+| `GLO`    | = | Geek of Logistics |
+| `GMKT`   | = | Geek of Marketing Science |
+| `GQA`    | = | Geek of Quality Assurance |
+
+### 🌐 Culture, Communication & Influence
+| Code     | = | Description |
+|----------|---|-------------|
+| `GCC`    | = | Geek of Communications |
+| `GMC`    | = | Geek of Mass Communications |
+| `GIN`    | = | Geek of Influencing |
+| `GPOP`   | = | Geek of Pop Culture Studies |
+
+### 🏕️ Life, Hobbies & Activities
+| Code     | = | Description |
+|----------|---|-------------|
+| `GOA`    | = | Geek of Outdoor Activities |
+
+### 🚀 Futurism & Speculative Thought
+| Code     | = | Description |
+|----------|---|-------------|
+| `GAEX`   | = | Geek of Aerospace Exploration |
+| `GFIC`   | = | Geek of Futurism & Foresight |
+| `GALI`   | = | Geek of Alien & Extraterrestrial Theories |
+
+### 🤷 I Don't Know
+| Code     | = | Description |
+|----------|---|-------------|
+| `GO`     | = | Geek of Other. Some types of geeks deviate from normal geek activities. This is encouraged as true geeks come from all walks of life. |
+| `GU`     | = | Geek of 'Undecided'. This is a popular vocation with incoming freshmen. |
+| `G!`     | = | Geek of no qualifications nor interests; likely, cannot exist |
+| `GAT`    | = | Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors. |
 
 
 WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
@@ -594,7 +691,7 @@ What are your thoughts on the TV show that captivates you as a devoted fan.
 ### Star Trek
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`TST`		|	=		|	Star Trek	|
+|	`TST`		|	=		|	Star Trek (can be used to refer to The Original Series, or all Star Trek series as a whole)	|
 |	`TSTanm`	|	=		|	Star Trek - Animated Series	|
 |	`TSTtng`		|	=		|	Star Trek - The Next Generation	|
 |	`TSTds9`	|	=		|	Star Trek - Deep Space Nine	|
