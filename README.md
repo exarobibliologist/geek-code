@@ -334,15 +334,15 @@ D = Dimensions
 
 People who are considered geeks come in a wide variety of forms. The initial portion indicates the vertical extent, while the latter represents the horizontal extent. The two parts are delimited by a colon.
 
-|				|			|	Vertical Extent		|	Horizontal Extent	|
-|:---			|	:---:	|	:---				|	:---				|
-|	`+++:+++` 	|	=		|	My height requires me to duck through doors.		|	My broad build takes up the space of three cinema seats.		|
-|	`++:++` 	|	=		|	I have the physical build of a basketball player.	|	I have the physical build of a linebacker.		|
-|	`+:+` 		|	=		|	I am slightly taller than the average person.		|	I have a rounder body shape than most others.	|
-|	`:` 		|	=		|	Geek of average height							|	Geek of average width			|
-|	`-:-`		|	=		|	I am shorter than most individuals.				|	People frequently advise me to gain weight.	|
-|	`--:--` 	|	=		|	I am significantly shorter than most people.	|	I often have to push through strong winds due to my lean build.	|
-|	`---:---` 	|	=		|	I require a phone book to elevate myself during meals. 	|	My body is emaciated and bony.	|
+| Code	| | Vertical Extent	 | Horizontal Extent |
+|:--- | :---: | :--- | :--- |
+| `+++` | = | My height requires me to duck through doors.      | My broad build takes up the space of three cinema seats. |
+| `++`  | = | I have the physical build of a basketball player. | I have the physical build of a linebacker.               |
+| `+`   | = | I am slightly taller than the average person.     | I have a rounder body shape than most others.            |
+| `_`   | = | Geek of average height                            | Geek of average width                                    |
+| `-`   | = | I am shorter than most individuals.               | People frequently advise me to gain weight.              |
+| `--`  | = | I am significantly shorter than most people.      | I often have to push through strong winds due to my lean build. |
+| `---` | = | I require a phone book to elevate myself during meals. |	My body is emaciated and bony. |
 
 Example: `D+++:---` indicates extremely tall and thin.
 
