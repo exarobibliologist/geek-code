@@ -1,8 +1,51 @@
 # geek_code
 
-# Geek Code 2026
+# Geek Code 2025
 
-Welcome to Geek Code 2026.1.1.3
+# What Is Geek Code?
+The Geek Code was developed in 1993 as a system of letters and symbols used by self-proclaimed "geeks" to provide information about their personality, appearance, interests, skills, and opinions to other geeks.
+
+This code aims to offer a brief yet comprehensive depiction of one's self within the realm of geek culture. It covers key dimensions using a limited number of categories, which are further specified with qualifiers or quantifiers. The goal is to encode everything that defines a geek's individuality into a compact format that only other geeks can comprehend, which is thought to be an efficient approach within geek culture.
+
+By sharing your geek code with friends and acquaintances, you can help them understand that today's geeks are the trendsetters of tomorrow.
+
+Older Versions
+------
+Robert A. Hayden, a student and later a graduate of Mankato State University, created and wrote Version 0.1 of the Geek Code, which only had about five categories. Version 0.2 focused on correcting spelling and bugs, while Version 0.3 added a few more categories.
+
+The web links provided in this text are some of the earliest examples of the Geek Code still surviving on the internet. In the case that these websites disappear or stop loading, a backup of the old code has been created for posterity in this GitHub repository.
+
+[Click here to see Version 0.3 on the web!](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+
+Version 1.0 was released four months after 0.3, on July 17, 1993, and added several more categories, along with rules for cross-overs and variables.
+
+[Click here to see Version 1.0.1 here!](http://www.textfiles.com/100/codegeek.txt)
+
+Version 2.0 was released a year after Version 1.0, and at least 75 additions were included in that version, representing the recommendations of dozens of people. This milestone also signifies the moment when the geek code had expanded to such an extent that it ultimately needed to undergo revision in order to maintain internal coherence.
+
+[Click here to see version 2.1 on the web!](http://www.aleph.se/Nada/nerdiness/geek2)
+
+Version 3.x, which was released on March 5, 1996, was a significant refinement over Version 2.x, aimed at eliminating many of the non-geeky categories to make room for more geeky traits. Some of the odd categories that were removed in 3.x included automobiles, nutrition, and even Barney.
+
+The geekcode Linux package, which is presently accessible on Debian and Ubuntu, operates on Version 3.12. However, it is imperative to note that this Linux package solely comprises the rudimentary form of the Version 3 Geek Code and is bereft of support for crossovers and variables.
+
+[Version 3.1](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html)
+
+[Version 3.1 Generator](https://www.joereiss.net/geek/geek.html)
+
+[Version 3.1 Decoder](http://www.ebb.org/ungeek/ "Real geeks shouldn't need this though.")
+
+Version 4.x was released on GitHub on October 18, 2019, with some categories removed, added, and altered.
+
+[Click here to see Version 4.0!](https://github.com/telavivmakers/geek_code/blob/8903d925d6660d9afa661d6cb99f13976d95242f/README.md)
+
+Version 5.x eliminated case-sensitive categories and modified some letters and categories. The latest versions of the Geek Code are aimed at giving geeks a better platform to express their interests.
+
+Version 6.x was a complete revision, improved with better comprehension, flow, revised vocabulary.
+
+[Click here to see Version 7.x](https://github.com/exarobibliologist/geek-code/blob/2484c723fe4b5572114e15c38cbc1944c06bfa23/Geek%20v7%20Code) Version 7.x greatly expanded on version 6 by adding new, modern fields that geeks spend time in.
+
+Welcome to Geek Code 2025.1.0.0
 ======
 
 Rather than continuing the numbering scheme started back in 1993, which can become confusing figuring out which version you need to use and where to find it, I have decided to instead number Geekcode versions using a hybrid of semantic numbering and calendar numbering.
@@ -293,15 +336,15 @@ People who are considered geeks come in a wide variety of forms. The code is div
 
 These parts are ( `VERTICAL : HORIZONTAL` )
 
-| Code	| 		| Vertical Extent	 										| Horizontal Extent |
-|:--- 	| :---: | :--- 														| :--- 				|
-| `+++` | 	= 	| My height requires me to duck through doors.      		| 	My broad build takes up the space of three cinema seats. |
-| `++`  | 	= 	| I have the physical build of a basketball player. 		| 	I have the physical build of a linebacker.               |
-| `+`   | 	= 	| I am slightly taller than the average person.     		| 	I have a rounder body shape than most others.            |
-| `_`   | 	= 	| Geek of average height                            		| 	Geek of average width                                    |
-| `-`   | 	= 	| I am shorter than most individuals.               		| 	People frequently advise me to gain weight.              |
-| `--`  | 	= 	| I am significantly shorter than most people.      		| 	I often have to push through strong winds due to my lean build. |
-| `---` |	= 	| I require a phone book to elevate myself during meals.	|	My body is emaciated and bony. |
+| Code	| | Vertical Extent	 | Horizontal Extent |
+|:--- | :---: | :--- | :--- |
+| `+++` | = | My height requires me to duck through doors.      | My broad build takes up the space of three cinema seats. |
+| `++`  | = | I have the physical build of a basketball player. | I have the physical build of a linebacker.               |
+| `+`   | = | I am slightly taller than the average person.     | I have a rounder body shape than most others.            |
+| `_`   | = | Geek of average height                            | Geek of average width                                    |
+| `-`   | = | I am shorter than most individuals.               | People frequently advise me to gain weight.              |
+| `--`  | = | I am significantly shorter than most people.      | I often have to push through strong winds due to my lean build. |
+| `---` | = | I require a phone book to elevate myself during meals. |	My body is emaciated and bony. |
 
 Example: `D+++:---` indicates extremely tall and thin.
 
@@ -394,6 +437,7 @@ U = Unix
 	UM = MidnightBSD
 U* = Some other one not listed
 ````
+some examples
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
@@ -405,8 +449,6 @@ U* = Some other one not listed
 |	`U-`		|	=		|	I have a VMS account.	|
 |	`U--`		|	=		|	I've seen Unix and didn't like it. DEC rules!	|
 |	`U---`		|	=		|	Unix geeks are actually nerds in disguise.	|
-
-
 
 MC = Mac/Apple
 ------
@@ -421,20 +463,6 @@ Numerous technology enthusiasts have made the switch from personal computers to 
 |	`MC-` 		|	=		|	Macs are inferior. True technology enthusiasts only use a command line interface, or a character prompt, for their computing needs.	|
 |	`MC--`		| 	= 		|	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.	|
 
-
-AI = Artificial Intelligence
-------
-
-Since the 2025 Revision, attitudes toward AI have fluctuated wildly everywhere. Geekcode already contains "Geek of Artifical Intelligence" (GAI) and "Geek of Generative AI" (GGEN). This measurement is to tell others how much you like or use AI in your life.
-
-|:---			|	:---:	|	:---		|
-|	`AI++`		|	=		|	The Singularity Can't Come Fast Enough. I use AI for everything from refactoring legacy code to drafting grocery lists. My daily workflow is a cyborg-like partnership, and I’ve probably fine-tuned a local LLM to mimic my own personality.	|
-|	`AI+`		|	=		|	AI-Augmented. I find AI tools like ChatGPT or GitHub Copilot to be incredibly useful for debugging and brainstorming. It’s a powerful tool in my belt, even if I still double-check the "hallucinations" now and then.	|
-|	`AI` 		|	=		|	Don't Care Either Way. It’s just another tool in the stack. I’ll use it if it saves time, but I’m just as happy doing things the "manual" way.	|
-|	`AI-` 		|	=		|	Stochastic Parrots. I’m skeptical of the hype. I prefer human-authored code and content, and I worry about the data privacy and ethical implications of large-scale models.	|
-|	`AI--`		| 	= 		|	Butlerian Jihadist. AI is a "noisy box summoning evil spirits" for the 21st century. I refuse to use it and likely include "No AI" meta-tags in everything I create.	|
-
-
 L = Programming Languages
 ------
 
@@ -442,51 +470,50 @@ List a series of languages and your facility/opinion thereupon, for example, `Lp
 
 |				|			|					|
 |:---			|	:---:	|	:---			|
-|	`LASM` 		|	=		|	Assembly						|
-|	`LBASH`		|	=		|	Bourne Again Shell				|
-|	`LC`		|	=		|	C								|
-|	`LCPP`		|	=		|	C++								|
-|	`LC#`		|	=		|	C#								|
-|	`LCLJ`		|	=		|	Clojure							|
-|	`LD`		|	=		|	Dart							|
-|	`LGO` 		|	=		|	Go								|
-|	`LGPT` 		|	=		|	GPT								|
-|	`LJ`		|	=		|	Java							|
-|	`LJS`		|	=		|	Javascript						|
-|	`LJSX`		|	=		|	JSX (React Syntax)				|
-|	`LJV`		|	=		|	Julia							|
-|	`JKO`		|	=		|	Kotlin							|
-|	`LLLL`		|	=		|	Low-level Lisp					|
-|	`LLUA`		|	=		|	Lua								|
-|	`LM` 		|	=		|	MATLAB							|
-|	`LNIM`		|	=		|	Nim								|
-|	`LOC` 		|	=		|	Objective C						|
-|	`LP` 		|	=		|	Perl							|
-|	`LPHP`		|	=		|	PHP								|
-|	`LPY`		|	=		|	Python							|
-|	`LQ#`		|	=		|	Q# (Quantum Computing)			|
-|	`LR` 		|	=		|	R								|
-|	`LRS`		|	=		|	Rust							|
-|	`LRU`		|	=		|	Ruby							|
-|	`LSCL`		|	=		|	Scala							|
-|	`LSQL` 		|	=		|	SQL								|
-|	`LSW`		|	=		|	Swift							|
-|	`LTS`		|	=		|	TypeScript						|
-|	`LVB`		|	=		|	Visual Basic					|
-|	`LVC`		|	=		|	Vibecoder (See AI+ / AI++)	|
-|	`LWPS`		|	=		|	Windows PowerShell				|
-|	`LZIG`		|	=		|	Zig								|
+|	`LASM` 		|	=		|	Assembly			|
+|	`LBASH`		|	=		|	Bourne Again Shell		|
+|	`LC`		|	=		|	C programming lang		|
+|	`LCPP`		|	=		|	C plus plus				|
+|	`LC#`		|	=		|	C sharp					|
+|	`LCLJ`		|	=		|	Clojure					|
+|	`LD`		|	=		|	Dart					|
+|	`LGO` 		|	=		|	Go						|
+|	`LGPT` 		|	=		|	GPT						|
+|	`LJ`		|	=		|	Java					|
+|	`LJS`		|	=		|	Javascript				|
+|	`LJSX`		|	=		|	JSX (React Syntax)		|
+|	`LJV`		|	=		|	Julia					|
+|	`JKO`		|	=		|	Kotlin					|
+|	`LLLL`		|	=		|	Low-level Lisp			|
+|	`LLUA`		|	=		|	Lua						|
+|	`LM` 		|	=		|	MATLAB					|
+|	`LNIM`		|	=		|	Nim						|
+|	`LOC` 		|	=		|	Objective C				|
+|	`LP` 		|	=		|	Perl					|
+|	`LPHP`		|	=		|	PHP						|
+|	`LPY`		|	=		|	Python					|
+|	`LQ#`		|	=		|	Q# (Quantum Computing)	|
+|	`LR` 		|	=		|	R						|
+|	`LRS`		|	=		|	Rust					|
+|	`LRU`		|	=		|	Ruby					|
+|	`LSCL`		|	=		|	Scala					|
+|	`LSQL` 		|	=		|	SQL						|
+|	`LSW`		|	=		|	Swift					|
+|	`LTS`		|	=		|	TypeScript				|
+|	`LVB`		|	=		|	Visual Basic			|
+|	`LWPS`		|	=		|	Windows PowerShell		|
+|	`LZIG`		|	=		|	Zig						|
 
 For example:
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`LPY+++`	|	=		|	I am Guido van Rossum	|
-|	`LPY++`		|	=		|	I maintain and provide contributions to the Python code base.	|
-|	`LPY+`		|	=		|	As a devoted Python enthusiast, I consistently utilize this programming language in my work. I take pride in aligning my statements with the principles of "pythonic" coding.	|
-|	`LPY`		|	=		|	I am neutral towards Python; it is decent for certain purposes.	|
-|	`LPY-`		|	=		|	Python is a programming language for hobbiests.	|
-|	`LPY--` 	|	=		|	I hold a strong aversion towards python; it appears to be an unsightly deviation that only caters to those who are unable to comprehend the intricate capabilities of [C|Lisp|assembly].	|
+|	`Lpy+++`	|	=		|	I am Guido van Rossum	|
+|	`Lpy++`		|	=		|	I maintain and provide contributions  to the Python code base.	|
+|	`Lpy+`		|	=		|	As a devoted Python enthusiast, I consistently utilize this programming language in my work. I take pride in aligning my statements with the principles of "pythonic" coding.	|
+|	`Lpy`		|	=		|	I am neutral towards Python; it is decent for certain purposes.	|
+|	`Lpy-`		|	=		|	Python is a programming language for hobbiests	|
+|	`Lpy--` 	|	=		|	I hold a strong aversion towards python; it appears to be an unsightly deviation that only caters to those who are unable to comprehend the intricate capabilities of [C|Lisp|assembly].	|
 
 
 IO = Input/Output
@@ -494,14 +521,14 @@ IO = Input/Output
 
 How do you go about handling your data? And, once you have it, how do you effectively communicate it to others? Input/Output, consisting of two distinct sections separated by a colon, determines just how easily you are able to navigate and make sense of your data.
 
-|			|			|	Input																												|		Output		|
-|:---		|	:---:	|	:---																												| 	:---			|
-|	`+++`	|	=		|	I wrote my own database system as current performance limitations were irking me									|	I am a java bean 	|
-|	`++`	|	=		|	I prefer a highly customized setup, with macros, shortcuts, and tools to streamline my workflow						|	My presentations are crisp and engaging, using tools like LaTeX or markdown for clarity.	|
-|	`+`		|	=		|	I use off-the-shelf tools like Excel or Notion for organizing my data												|	I rely on pre-built templates for quick but effective communication.	|
-|			|	=		|	Uses mouse and keyboard equally																						|	Uses mouse and keyboard equally	|
-|	`-`		|	=		|	I stick to basic keyboard-driven navigation, avoiding anything fancy												|	My outputs are simple and functional, no unnecessary embellishments.	|
-|	`--`	|	=		|	I work exclusively with text-based interfaces like Vim or Emacs.													|	My user interface is a text-only Terminal. Don't even touch the mouse	|
+|			|			|	Input		|		Output		|
+|:---		|	:---:	|	:---		| 	:---			|
+|	`+++`	|	=		|	I wrote my own database system as current performance limitations were irking me	|	I am a java bean 	|
+|	`++`	|	=		|	I prefer a highly customized setup, with macros, shortcuts, and tools to streamline my workflow		|	My presentations are crisp and engaging, using tools like LaTeX or markdown for clarity.	|
+|	`+`		|	=		|	I use off-the-shelf tools like Excel or Notion for organizing my data	|	I rely on pre-built templates for quick but effective communication.	|
+|			|	=		|	Uses mouse and keyboard equally	|	Uses mouse and keyboard equally	|
+|	`-`		|	=		|	I stick to basic keyboard-driven navigation, avoiding anything fancy	|	My outputs are simple and functional, no unnecessary embellishments.	|
+|	`--`	|	=		|	I work exclusively with text-based interfaces like Vim or Emacs.	|	My user interface is a text-only Terminal. Don't even touch the mouse	|
 |	`---`	|	=		|	Keep the data and code out of sight. I focus on creating an attractive graphical user interface for maximum impact.	|	The concept of 'user experience' holds no significance to me. In my view, users can be effectively studied and understood through Bayesian techniques.	|
 
 For example: `IO+++:---` indicates that you will be dealing with data in its most unprocessed form, both in receiving and transmitting it.

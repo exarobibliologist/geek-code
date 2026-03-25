@@ -1,6 +1,6 @@
 # geek_code
 
-# Geek Code 2025
+# Geek Code 2026
 
 # What Is Geek Code?
 The Geek Code was developed in 1993 as a system of letters and symbols used by self-proclaimed "geeks" to provide information about their personality, appearance, interests, skills, and opinions to other geeks.
@@ -41,7 +41,9 @@ Version 5.x eliminated case-sensitive categories and modified some letters and c
 
 [Version 7.x](https://github.com/exarobibliologist/geek-code/blob/main/Old%20Codes/Geek%20v7%20Code) was released December 30, 2024 and greatly expanded on version 6.x by adding new, modern fields that geeks spend time in.
 
-Welcome to Geek Code 2025.1.0.0
+[Version 2025.1.0.0](https://github.com/exarobibliologist/geek-code/blob/main/Old%20Codes/Geek%20v2025%20Code)
+
+Welcome to Geek Code 2026
 ======
 
 Rather than continuing the numbering scheme started back in 1993, which can become confusing figuring out which version you need to use and where to find it, I have decided to instead number Geekcode versions using a hybrid of semantic numbering and calendar numbering.
@@ -61,4 +63,6 @@ Go Generate Your Geekcode!
 ======
 Download the [current geekcode file](https://github.com/exarobibliologist/geek-code/blob/main/Current%20Geekcode) and design your geekcode.
 
-As a note: It's much easier to view in a text editor WITHOUT word wrap. Word wrap makes a mess of the charts!
+If you want to view it online: Use the [GitHub Markdown Previewer](https://markdownlivepreview.com/) and paste the RAW geekcode file into the code pane. You can read and see all the charts much easier with the markdown interpreted.
+
+If you want to view it using a text editor: We suggest using [Notepad++](https://notepad-plus-plus.org/) WITHOUT WORD WRAP. Word wrap makes a mess of the charts!
