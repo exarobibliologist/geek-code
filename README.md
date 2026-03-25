@@ -41,23 +41,18 @@ Version 5.x eliminated case-sensitive categories and modified some letters and c
 
 [Version 7.x](https://github.com/exarobibliologist/geek-code/blob/main/Old%20Codes/Geek%20v7%20Code) was released December 30, 2024 and greatly expanded on version 6.x by adding new, modern fields that geeks spend time in.
 
-[Version 2025.1.0.0](https://github.com/exarobibliologist/geek-code/blob/main/Old%20Codes/Geek%20v2025%20Code)
+[Version 2025.1.0.0](https://github.com/exarobibliologist/geek-code/blob/main/Old%20Codes/Geek%20v2025%20Code) was released Jul 28, 2025 and included a new chronological semantic numbering system to simplify version numbering. Geekcode now follows will be `YEAR.MAJOR.MINOR.PATCH` It's obvious what `YEAR` means. `MAJOR` and `MINOR` will track major or minor version changes throughout the year.
+
 
 Welcome to Geek Code 2026
 ======
 
-Rather than continuing the numbering scheme started back in 1993, which can become confusing figuring out which version you need to use and where to find it, I have decided to instead number Geekcode versions using a hybrid of semantic numbering and calendar numbering.
-In addition, older versions of Geekcode will be archived in GitHub repository for posterity, and easy access. These versions will be linked in the historical archive above.
+Since the 2025 Revision, attitudes toward AI have fluctuated wildly everywhere. Geekcode already contains "Geek of Artifical Intelligence" (GAI) and "Geek of Generative AI" (GGEN).
 
-The numbering scheme I am going to follow will be `YEAR.MAJOR.MINOR.PATCH`
+It is understood that some geeks may dislike AI.
 
-It's obvious what `YEAR` means. `MAJOR` and `MINOR` will track major or minor version changes throughout the year, resetting on the next `YEAR`'s major release.
+To that end, a new measurement has been added to allow for geeks to express how much you like or dislike AI
 
-The obvious benefits to this method are:
-
-Time context - Including the year tells users when the release was made — helpful in long-lived projects (which geekcode definitely qualifies as long-lived) or when regular updates are important. And people can tell how frequently you're releasing updates just by glancing at the version history.
-
-Chronological sorting - Versions sort nicely in order when the year is the leading number.
 
 Go Generate Your Geekcode!
 ======
