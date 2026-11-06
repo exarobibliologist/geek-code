@@ -1,9 +1,3 @@
-# geek_code
-
-# Geek Code 2026
-
-# geek_code
-
 # Geek Code 2026
 
 # What Is Geek Code?
